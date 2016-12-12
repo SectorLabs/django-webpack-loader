@@ -16,7 +16,7 @@
     "react": "^0.13.3",
     "style-loader": "^0.12.3",
     "webpack": "^1.9.8",
-    "webpack-bundle-tracker": "git+https://github.com/EmilLuta/webpack-bundle-tracker.git#5e1b73fa592aba396211c29c2f36686d403e51f4",
+    "webpack-bundle-tracker": "git+https://github.com/SectorLabs/webpack-bundle-tracker.git",
     "webpack-dev-server": "^1.9.0",
     "webpack-split-by-path": "0.0.1"
   }
